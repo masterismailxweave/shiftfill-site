@@ -1,0 +1,39 @@
+{
+  "artboards": [
+    {
+      "file": "Main.dc.html",
+      "x": 0,
+      "y": 0,
+      "w": 1200,
+      "h": 560,
+      "title": "Primary logo"
+    },
+    {
+      "file": "OnDark.dc.html",
+      "x": 1280,
+      "y": 0,
+      "w": 1200,
+      "h": 560,
+      "title": "Reversed, on dark"
+    },
+    {
+      "file": "Options.dc.html",
+      "x": 0,
+      "y": 680,
+      "w": 1200,
+      "h": 560,
+      "title": "Other directions"
+    },
+    {
+      "file": "Icon.dc.html",
+      "x": 1280,
+      "y": 680,
+      "w": 1200,
+      "h": 560,
+      "title": "App icon and favicon"
+    }
+  ],
+  "launch": {
+    "view": "canvas"
+  }
+}
